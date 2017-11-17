@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               melectrik.github.io
+tagline:             Just a new Jekyll Butler
+url:                 https://melectrik.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://melectrik.github.io/"
 
 # Assets
 #
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              melectrik
+##  url:               https://twitter.com/mdo
+##  email:             mtemimi@gmail.com
 
 # Custom vars
 version:             2.0.0
